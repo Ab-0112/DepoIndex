@@ -18,7 +18,7 @@ A smart LLM-powered pipeline that reads deposition transcripts and auto-generate
 
 ```
 
-project\_root/
+DepoIndex
 ├── app.py                    # Streamlit web app
 ├── build\_toc.py              # CLI-based TOC generator
 ├── data/
