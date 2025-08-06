@@ -84,6 +84,10 @@ streamlit run app.py
 Upload your transcript and get an instant TOC.
 
 ---
+⚙️ Generate TOC via CLI
+bash
+python build_toc.py --file data/example_1.pdf --out output/toc.docx
+Processes the latest uploaded transcript and writes to /output.
 
 ## 🏛️ Ideal For
 
@@ -96,8 +100,4 @@ Upload your transcript and get an instant TOC.
 ## 📬 Contact
 
 Built by **Abhishek**
-
-
-
-Let me know if you want this turned into a full GitHub template repo with starter commits, issues, and contribution guides.
 ```
