@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-docx
+docx
+ipykernel
+numpy
+matplotlib
+pandas
