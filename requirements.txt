@@ -6,3 +6,4 @@ ipykernel
 numpy
 matplotlib
 pandas
+pdfplumber
