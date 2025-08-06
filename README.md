@@ -50,29 +50,6 @@ cd deposition-toc-generator
 pip install -r requirements.txt
 ````
 
----
-
-## 📦 Dependencies
-
-List for `requirements.txt`:
-
-```txt
-streamlit
-google-generativeai
-python-docx
-docx
-pandas
-```
-
-Also recommended:
-
-```bash
-pip install openpyxl matplotlib numpy pandas ipykernel
-```
-
----
-
-
 ## 🧪 How to Use
 
 ### 🖥️ Run with Streamlit UI
